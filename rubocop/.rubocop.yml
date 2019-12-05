@@ -23,7 +23,7 @@ Style/Documentation:
   Enabled: false
 
 Style/TrailingCommaInArguments:
-  EnforcedStyleForMultiline: comma
+  Enabled: false
 
 Style/TrailingCommaInArrayLiteral:
   EnforcedStyleForMultiline: comma
