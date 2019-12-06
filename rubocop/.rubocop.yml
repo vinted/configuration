@@ -1,0 +1,32 @@
+AllCops:
+  DisplayCopNames: true
+
+Layout/MultilineMethodCallIndentation:
+  EnforcedStyle: indented
+
+Layout/MultilineOperationIndentation:
+  EnforcedStyle: indented
+
+Layout/AlignArguments:
+  EnforcedStyle: with_fixed_indentation
+
+Layout/AlignParameters:
+  EnforcedStyle: with_fixed_indentation
+
+Metrics/LineLength:
+  Max: 99
+
+Style/ClassAndModuleChildren:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Style/TrailingCommaInArguments:
+  Enabled: false
+
+Style/TrailingCommaInArrayLiteral:
+  EnforcedStyleForMultiline: comma
+
+Style/TrailingCommaInHashLiteral:
+  EnforcedStyleForMultiline: comma
